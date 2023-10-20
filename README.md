@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y0shicon&theme=vue"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y0shicon&langs_count=10&hide=html)
-
 <!--
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
