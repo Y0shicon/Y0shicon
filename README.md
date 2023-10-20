@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y0shicon&theme=vue"/>
 </p>
 
 <!--
