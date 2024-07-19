@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me: 
-- 🔭 I’m currently working on Oasis 2023 (Website)
-- 🌱 I’m currently learning NodeJS and PyTorch
-- 💬 Ask me about Frontend Web Development
+- 🔭 I’m currently working on Object Detection Models
+- 🌱 I’m currently learning Django and PyTorch
+- 💬 Ask me about Frontend Web Development and ML
 
 ## 💻 Tech Stack :
 ### Frontend : 
